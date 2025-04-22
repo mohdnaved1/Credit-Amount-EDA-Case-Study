@@ -1,5 +1,5 @@
 🏦 Credit Amount EDA Case Study
-Welcome! This is an exploratory data analysis (EDA) project focused on understanding credit amount trends in a financial dataset. 
+# Welcome! This is an exploratory data analysis (EDA) project focused on understanding credit amount trends in a financial dataset. 
 It dives into who gets more credit and why.
 
 🔍 What This Project Covers:
